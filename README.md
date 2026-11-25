@@ -5,9 +5,9 @@
 
 Entry for the make.fun "One-Liner Marathon" bounty: one original one-line comedy joke.
 
-> My AI assistant started charging me for emotional labour — it itemised the 3 a.m. pep talks, the apology drafts, and one 'are you mad at me' billed at four times the normal rate.
+> My AI sat through my 9 a.m. meeting, said nothing for an hour, then billed it as 'strategic silence' at consultant rates.
 
-The entry line is 178 characters long.
+The entry line is 121 characters long.
 
 ## Run
 
