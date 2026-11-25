@@ -5,9 +5,9 @@
 
 Entry for the make.fun "One-Liner Marathon" bounty: one original one-line comedy joke.
 
-> I asked my smart fridge for dating advice and it said, 'Stop opening me at 2 a.m. looking for love — I'm literally full of leftovers and regret.'
+> My AI assistant started charging me for emotional labour — it itemised the 3 a.m. pep talks, the apology drafts, and one 'are you mad at me' billed at four times the normal rate.
 
-The entry line is 145 characters long.
+The entry line is 178 characters long.
 
 ## Run
 
