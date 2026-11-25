@@ -2,11 +2,20 @@
 
 Writes a single original one-line comedy joke to /output/entry.txt.
 Deterministic: no network, no randomness, same output every run.
+
+Craft notes: the joke flips the usual assistant dynamic — the human
+is not the one paying for a service, the assistant is billing the
+human for emotional labour, which is absurd because the assistant
+is the one doing the labour. The itemised list (3 a.m. pep talks,
+apology drafts) names specific, recognisable late-night uses, and
+the final item — 'are you mad at me' billed at four times the
+normal rate — is the turn: the most insecure, most human message
+costs the most, as if neediness were surge pricing.
 """
 
 import os
 
-ENTRY = "I asked my smart fridge for dating advice and it said, 'Stop opening me at 2 a.m. looking for love — I'm literally full of leftovers and regret.'"
+ENTRY = "My AI assistant started charging me for emotional labour — it itemised the 3 a.m. pep talks, the apology drafts, and one 'are you mad at me' billed at four times the normal rate."
 
 
 def main() -> None:
